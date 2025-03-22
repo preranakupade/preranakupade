@@ -8,7 +8,7 @@
 - 👩‍💻 I’m a **Web Developer** with expertise in **HTML, CSS, JavaScript**  
 - 💡 Skilled in **C++, Java, Python, JavaScript**  
 - 🌱 Currently exploring **React.js, Node.js, and Full-Stack Development**  
-- 📫 **Let's Connect:** [LinkedIn](www.linkedin.com/in/prerana-kupade-829a8a220)  
+- 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/prerana-kupade-829a8a220)  
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 🎯 Connect with Me:
 <p align="center">
-  <a href="www.linkedin.com/in/prerana-kupade-829a8a220"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/prerana-kupade-829a8a220"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
 </p>
 
 ---
