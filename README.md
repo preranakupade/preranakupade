@@ -38,8 +38,3 @@
   <a href="https://www.linkedin.com/in/prerana-kupade-829a8a220"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=preranakupade&color=green">
-</p>
